@@ -1,0 +1,18 @@
+{
+  "name": "cy-pageobjects",
+  "version": "1.0.0",
+  "description": "Exemoplo de PageObjects",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "author": "daniella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danimaleski/ebac_uiTestingPaterns_PageObjects/issues"
+  },
+  "homepage": "https://github.com/danimaleski/ebac_uiTestingPaterns_PageObjects#readme",
+  "devDependencies": {
+    "cypress": "^14.2.1"
+  }
+}
